@@ -5,7 +5,14 @@ body {
 }
 
 h1 {
+    font-size: 5.625rem;
     font-family: "Tangerine", cursive;
+    margin-top: 50px;
+    color:#66BFBF;
+}
+h2{
+    font-size: 2.5rem ;
+    color:#66BFBF;
 }
 
 .top-container {
@@ -14,11 +21,11 @@ h1 {
     padding-top: 100px;
 }
 .middle-container {
-
+    padding-top: 10px;
 }
 
 .bottom-container {
-
+    padding-top: 10px;
 }
 .top-cloud {
     position: absolute;
