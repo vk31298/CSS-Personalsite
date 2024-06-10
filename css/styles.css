@@ -9,7 +9,8 @@ h1 {
     font-family: "Tangerine", cursive;
     margin-top: 50px;
     color:#66BFBF;
-}
+    line-height: 2;
+};
 h2{
     font-size: 2.5rem ;
     color:#66BFBF;
